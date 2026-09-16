@@ -1,7 +1,7 @@
 const text = [
-  "Aspiring Data Scientist",
-  "Aspiring Data Analyst",
-  "Power BI Enthusiast"
+  "Aspiring full stack developer/ Engineer",
+  "Aspiring frontend developer",
+  "Data analyst"
 ];
 
 let count = 0;
